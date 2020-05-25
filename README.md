@@ -43,10 +43,8 @@ $ sudo ./install_deb.sh
 - cpu-g_0.10.0-1ubuntu0_all.deb
 - dropbox_2015.10.28_amd64.deb
 - ghostwriter_1.8.0-2build1_amd64.deb
-- hyper_3.0.2_amd64.deb
 - plank_0.11.89-1_amd64.deb
 - stacer_1.1.0_amd64.deb
-- steam_latest.deb
 - yarn_1.22.4-1_all.deb
 
 <br>
@@ -70,3 +68,12 @@ $ sudo ./install_deb.sh
 ## 📦 My folder with more files
 
 ![](more_debs.png)
+
+<br>
+
+
+## 📦 arquivos fora da pasta deb.zip
+## 📦 files outside the deb.zip folder
+
+- hyper_3.0.2_amd64.deb
+- steam_latest.deb
